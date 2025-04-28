@@ -1,3 +1,5 @@
+language:HTML path:src/
+
 # Folder node_modules agar tidak di-push ke GitHub
 node_modules/
 
